@@ -2,7 +2,6 @@
 @namespace epub "http://www.idpf.org/2007/ops";
 
 /* for play excerpts in epigraphs */
-
 [epub|type~="z3998:drama"] table,
 table[epub|type~="z3998:drama"]{
 	border-collapse: collapse;
@@ -37,7 +36,6 @@ table[epub|type~="z3998:drama"]{
 	text-align: right;
 	width: 20%;
 }
-
 
 [epub|type~="z3998:persona"]{
 	font-variant: all-small-caps;
@@ -155,5 +153,5 @@ p span.i2{
 }
 
 [epub|type~="epigraph"] [epub|type~="z3998:drama"] td{
-	padding-top: 0;  /* reduce vertical spacing in epigraphs */
+	padding-top: 0; /* reduce vertical spacing in epigraphs */
 }
