@@ -44,7 +44,7 @@
 		<dc:language>LANG</dc:language>
 		<dc:source>PG_URL</dc:source>
 		<dc:source>IA_URL</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<meta property="se:production-notes">The “Biographical Note” included in the page scans is clearly of much later date than this novel as it references later books in the Wimsey series; it is therefore not yet in the public domain and has been omitted accordingly.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Unnatural_Death</meta>
