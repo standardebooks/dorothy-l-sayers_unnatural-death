@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="chapter-3.xhtml">
+		<ignore>
+			<code>t-003</code>
+			<reason>Missing closing quotation mark is correctly due to speech continuing in next paragraph.</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
