@@ -160,6 +160,7 @@ p span.i2{
 .letter-title{
 	font-style: italic;
 	text-align: center;
+	text-indent: 0;
 }
 
 [epub|type~="z3998:letter"] header{
