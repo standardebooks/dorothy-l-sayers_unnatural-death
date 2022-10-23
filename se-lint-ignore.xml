@@ -6,4 +6,10 @@
 			<reason>Missing closing quotation mark is correctly due to speech continuing in next paragraph.</reason>
 		</ignore>
 	</file>
+	<file path="chapter-23.xhtml">
+		<ignore>
+			<code>s-023</code>
+			<reason>Title of chapter begins with a dash, so following word ‘And’ is validly cased.</reason>
+		</ignore>
+	</file>
 </se-lint-ignore>
