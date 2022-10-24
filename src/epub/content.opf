@@ -44,9 +44,13 @@
 		<meta property="term" refines="#subject-4">Unknown</meta>
 		<meta property="se:subject">Fiction</meta>
 		<meta property="se:subject">Mystery</meta>
-		<dc:description id="description">An amateur detective investigates the suspiciously early death of an elderly lady, triggering a series of violent reactions in response.</dc:description>
+		<dc:description id="description">An amateur detective investigates the suspiciously early death of an elderly lady, triggering a series of deadly actions in response.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;&lt;em&gt;Unnatural Death&lt;/em&gt;, published in 1927, is the third novel written by &lt;a href="https://standardebooks.org/ebooks/dorothy-l-sayers"&gt;Dorothy L. Sayers&lt;/a&gt; featuring her artistocratic detective Lord Peter Wimsey.&lt;/p&gt;
+			&lt;p&gt;The story begins with a conversation in a restaurant between Wimsey, his friend Detective Inspector Charles Parker, and a doctor who tells them about a situation he was involved in: an elderly lady, suffering from a slow-acting cancer, died suddenly and unexpectedly with no obvious immediate cause of death. She died intestate but her great-niece, with whom she was living, was set to inherit the considerable estate. Suspecting something wrong, the doctor demanded an autopsy, which showed nothing unusual, but stirred up such local animosity that the doctor was forced to abandon his practice. Wimsey, sensing a mystery, decides to investigate. His investigations however trigger a series of deadly actions in response.&lt;/p&gt;
+			&lt;p&gt;One of the delights of the book is the introduction of a new character in Miss Alexandra Climpson, a middle-aged spinster who Wimsey employs as an investigative agent, and whose effusive reports of the gossip she picks up in the town are very amusing.&lt;/p&gt;
+			&lt;p&gt;&lt;em&gt;Unnatural Death&lt;/em&gt; is notable for including one clearly lesbian character, unusual in detective fiction at the time, and the very sympathetic treatment by Wimsey of a black character (though offensively racist terms of him are used by others in the book).&lt;/p&gt;
+			&lt;p&gt;An adaptation of the book was made for BBC radio in 1975.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://archive.org/details/unnaturaldeathlo00doro_0</dc:source>
@@ -61,7 +65,7 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Dorothy_L._Sayers</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79046044</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<meta property="role" refines="#author" scheme="marc:relators">ill</meta>
+		<meta property="se:role" refines="#author" scheme="marc:relators">ill</meta>
 		<dc:contributor id="artist">Fred Leist</dc:contributor>
 		<meta property="file-as" refines="#artist">Leist, Fred</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Fred_Leist</meta>
