@@ -165,3 +165,25 @@ footer{
 	text-align: initial;
 	text-indent: 0;
 }
+
+#chapter-6 > blockquote:nth-of-type(2){
+	text-align: center;
+	text-indent: 0;
+}
+
+#chapter-6 > blockquote:nth-of-type(2) p:first-child{
+	font-variant: small-caps;
+	text-indent: 0;
+}
+
+#chapter-6 > blockquote:nth-of-type(2) p:last-child{
+	font-style: italic;
+	text-indent: 0;
+}
+
+#chapter-22 > blockquote:last-of-type p{
+	text-align: center;
+	text-indent: 0;
+	font-variant: small-caps;
+}
+
