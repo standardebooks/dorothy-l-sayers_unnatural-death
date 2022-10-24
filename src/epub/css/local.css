@@ -182,8 +182,7 @@ footer{
 }
 
 #chapter-22 > blockquote:last-of-type p{
+	font-variant: small-caps;
 	text-align: center;
 	text-indent: 0;
-	font-variant: small-caps;
 }
-
